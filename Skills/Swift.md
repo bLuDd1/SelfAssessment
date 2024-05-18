@@ -1,152 +1,152 @@
 ## Swift
 
 - Language
-  - `let` and `var`
-  - `Int`
-  - `Double`
-  - `Float`
-  - `Bool`
-  - `String`
-  - `Character`
-  - `Array`
-  - `Dictionary`
-  - `Set`
-  - Tuples
-  - Optionals
-  - Optional binding (`if let`, `guard let`)
-  - Optional chaining
-  - `nil`
-  - `Any`
-  - `AnyObject`
-  - `Typealias`
-  - `type(of:)`
-  - Literals
-  - Interpolation
-  - Range operators (`...`, `..<`)
-  - Closures
-  - Trailing closure syntax
-  - Escaping closures
+  - `let` and `var` e
+  - `Int` u
+  - `Double` u
+  - `Float` u
+  - `Bool` u
+  - `String` u
+  - `Character` k
+  - `Array` u
+  - `Dictionary` u
+  - `Set` u
+  - Tuples u
+  - Optionals u
+  - Optional binding (`if let`, `guard let`) u
+  - Optional chaining k
+  - `nil` u
+  - `Any` k
+  - `AnyObject` h
+  - `Typealias` k
+  - `type(of:)` k
+  - Literals k
+  - Interpolation u
+  - Range operators (`...`, `..<`) u
+  - Closures u
+  - Trailing closure syntax h
+  - Escaping closures k
   - Autoclosures
-  - `self`
-  - `super`
-  - Type casting (`as`, `as?`, `as!`)
-  - Conditional casting (`is`)
-  - `Optional`
-  - `Optional.map`
-  - `Optional.flatMap`
-  - `Optional.default`
-  - `Optional.coalesce`
-  - Enums
-  - Associated values
-  - Raw values
-  - Structs
-  - Classes
-  - Inheritance
-  - Protocols
-  - Protocol extensions
-  - Protocol-oriented programming
-  - Extensions
-  - Generics
-  - Generic constraints
-  - Access control (`public`, `private`, `fileprivate`, `internal`, `open`)
-  - Deinitializers
-  - Memory management (ARC)
-  - Property observers (`willSet`, `didSet`)
-  - Key paths
-  - Lazy properties
-  - Static properties and methods
-  - Subscripts
-  - Nested types
-  - Initializers
-  - Failable initializers
-  - Convenience initializers
-  - Required initializers
+  - `self` u
+  - `super` k
+  - Type casting (`as`, `as?`, `as!`) k
+  - Conditional casting (`is`) k
+  - `Optional` k
+  - `Optional.map` h
+  - `Optional.flatMap` h
+  - `Optional.default` h
+  - `Optional.coalesce` h
+  - Enums u
+  - Associated values k
+  - Raw values k
+  - Structs e
+  - Classes e
+  - Inheritance u
+  - Protocols u
+  - Protocol extensions u
+  - Protocol-oriented programming k
+  - Extensions k
+  - Generics h
+  - Generic constraints h
+  - Access control (`public`, `private`, `fileprivate`, `internal`, `open`) k
+  - Deinitializers h
+  - Memory management (ARC) k
+  - Property observers (`willSet`, `didSet`) h
+  - Key paths u
+  - Lazy properties h
+  - Static properties and methods u
+  - Subscripts 
+  - Nested types h
+  - Initializers u
+  - Failable initializers h
+  - Convenience initializers h
+  - Required initializers h
   - Mutating methods
   - Computed properties
   - Immutable properties
   - Read-only properties
-  - Method chaining
-  - Error handling
-  - `try`, `try?`, `try!`
-  - Throwing functions
-  - Rethrowing functions
-  - `Result` type
-  - Concurrency
-  - `async` and `await`
+  - Method chaining h
+  - Error handling u
+  - `try`, `try?`, `try!` h
+  - Throwing functions k
+  - Rethrowing functions k
+  - `Result` type 
+  - Concurrency h
+  - `async` and `await` h
   - `DispatchQueue`
   - `DispatchGroup`
-  - Grand Central Dispatch (GCD)
+  - Grand Central Dispatch (GCD) h
   - Operation queues
   - Actors
   - `@MainActor`
-  - `@Sendable`
+  - `@Sendable` h
   - `Task`
   - `TaskGroup`
 - Control Flow
-  - `if`
-  - `else`
-  - `switch`
-  - `case`
-  - `for`
-  - `for case`
-  - `while`
-  - `repeat`
-  - `guard`
-  - `defer`
-  - `break`
-  - `continue`
-  - `return`
-  - `throw`
-  - `fallthrough`
+  - `if` u
+  - `else` u
+  - `switch` u
+  - `case` u
+  - `for` u
+  - `for case` k
+  - `while` u
+  - `repeat` u
+  - `guard` u
+  - `defer` h
+  - `break` k
+  - `continue` k
+  - `return` u
+  - `throw` u
+  - `fallthrough` h
 - Functions
-  - Function declaration
-  - Function parameters
-  - Default parameters
-  - Inout parameters
-  - Variadic parameters
-  - Function return values
-  - Nested functions
-  - Higher-order functions
-  - `map`
-  - `filter`
-  - `reduce`
-  - `compactMap`
+  - Function declaration e
+  - Function parameters e
+  - Default parameters k
+  - Inout parameters k
+  - Variadic parameters h
+  - Function return values u
+  - Nested functions h
+  - Higher-order functions h
+  - `map` k
+  - `filter` k
+  - `reduce` k
+  - `compactMap` h
   - `flatMap`
   - `zip`
 - Standard Library
-  - `Array`
-  - `Dictionary`
-  - `Set`
-  - `String`
+  - `Array` u
+  - `Dictionary` u
+  - `Set` u
+  - `String` r
   - `Range`
   - `ClosedRange`
   - `IndexSet`
-  - `CharacterSet`
-  - `FileManager`
-  - `Date`
+  - `CharacterSet` h
+  - `FileManager` h
+  - `Date` h
   - `DateFormatter`
   - `Calendar`
   - `TimeZone`
   - `Locale`
   - `Timer`
-  - `Data`
-  - `JSONSerialization`
-  - `JSONDecoder`
-  - `JSONEncoder`
-  - `Codable`
-  - `UserDefaults`
+  - `Data` k
+  - `JSONSerialization` u
+  - `JSONDecoder` u
+  - `JSONEncoder` u
+  - `Codable` u
+  - `UserDefaults` k
   - `NotificationCenter`
   - `Bundle`
-  - `URL`
-  - `URLRequest`
-  - `URLSession`
-  - `OperationQueue`
+  - `URL` u
+  - `URLRequest` u
+  - `URLSession` u
+  - `OperationQueue` h
 - Infrastructure
-  - Swift Package Manager (SPM)
-  - Xcode
-  - SwiftLint
+  - Swift Package Manager (SPM) k
+  - Xcode e
+  - SwiftLint h
   - SwiftFormat
-  - Apple Developer Documentation
+  - Apple Developer Documentation r
   - Swift Evolution
   - LLVM
   - REPL (Read-Eval-Print Loop)

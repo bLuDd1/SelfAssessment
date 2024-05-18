@@ -1,0 +1,46 @@
+## Swift
+- Simple values
+  - const
+  - var
+  - bool
+  - int
+  - float
+  - binary
+  - tuples
+- Collections
+  - arrays
+  - sets
+  - dictionaries
+- Control flow
+  - if
+  - switch
+  - for
+  - while
+- Optionals
+- Optional unwrapping
+- Binding
+- Functions
+- Closures
+- Access control
+- Structures
+- Classes
+- Enums
+- Protocols
+- Extensions
+- Error handling
+- Generics
+- Initializers
+- Memory management
+  - stack
+  - heap
+  - value type
+  - reference type
+  - MRC
+  - ARC
+  - weak references
+  - retain cycles
+  - garbage collection
+  - memory leaks
+- Advanced operators
+- Runtime
+- Method dispatch

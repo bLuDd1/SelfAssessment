@@ -1,46 +1,152 @@
 ## Swift
-- Simple values
-  - const
-  - var
-  - bool
-  - int
-  - float
-  - binary
-  - tuples
-- Collections
-  - arrays
-  - sets
-  - dictionaries
-- Control flow
-  - if
-  - switch
-  - for
-  - while
-- Optionals
-- Optional unwrapping
-- Binding
+
+- Language
+  - `let` and `var`
+  - `Int`
+  - `Double`
+  - `Float`
+  - `Bool`
+  - `String`
+  - `Character`
+  - `Array`
+  - `Dictionary`
+  - `Set`
+  - Tuples
+  - Optionals
+  - Optional binding (`if let`, `guard let`)
+  - Optional chaining
+  - `nil`
+  - `Any`
+  - `AnyObject`
+  - `Typealias`
+  - `type(of:)`
+  - Literals
+  - Interpolation
+  - Range operators (`...`, `..<`)
+  - Closures
+  - Trailing closure syntax
+  - Escaping closures
+  - Autoclosures
+  - `self`
+  - `super`
+  - Type casting (`as`, `as?`, `as!`)
+  - Conditional casting (`is`)
+  - `Optional`
+  - `Optional.map`
+  - `Optional.flatMap`
+  - `Optional.default`
+  - `Optional.coalesce`
+  - Enums
+  - Associated values
+  - Raw values
+  - Structs
+  - Classes
+  - Inheritance
+  - Protocols
+  - Protocol extensions
+  - Protocol-oriented programming
+  - Extensions
+  - Generics
+  - Generic constraints
+  - Access control (`public`, `private`, `fileprivate`, `internal`, `open`)
+  - Deinitializers
+  - Memory management (ARC)
+  - Property observers (`willSet`, `didSet`)
+  - Key paths
+  - Lazy properties
+  - Static properties and methods
+  - Subscripts
+  - Nested types
+  - Initializers
+  - Failable initializers
+  - Convenience initializers
+  - Required initializers
+  - Mutating methods
+  - Computed properties
+  - Immutable properties
+  - Read-only properties
+  - Method chaining
+  - Error handling
+  - `try`, `try?`, `try!`
+  - Throwing functions
+  - Rethrowing functions
+  - `Result` type
+  - Concurrency
+  - `async` and `await`
+  - `DispatchQueue`
+  - `DispatchGroup`
+  - Grand Central Dispatch (GCD)
+  - Operation queues
+  - Actors
+  - `@MainActor`
+  - `@Sendable`
+  - `Task`
+  - `TaskGroup`
+- Control Flow
+  - `if`
+  - `else`
+  - `switch`
+  - `case`
+  - `for`
+  - `for case`
+  - `while`
+  - `repeat`
+  - `guard`
+  - `defer`
+  - `break`
+  - `continue`
+  - `return`
+  - `throw`
+  - `fallthrough`
 - Functions
-- Closures
-- Access control
-- Structures
-- Classes
-- Enums
-- Protocols
-- Extensions
-- Error handling
-- Generics
-- Initializers
-- Memory management
-  - stack
-  - heap
-  - value type
-  - reference type
-  - MRC
-  - ARC
-  - weak references
-  - retain cycles
-  - garbage collection
-  - memory leaks
-- Advanced operators
-- Runtime
-- Method dispatch
+  - Function declaration
+  - Function parameters
+  - Default parameters
+  - Inout parameters
+  - Variadic parameters
+  - Function return values
+  - Nested functions
+  - Higher-order functions
+  - `map`
+  - `filter`
+  - `reduce`
+  - `compactMap`
+  - `flatMap`
+  - `zip`
+- Standard Library
+  - `Array`
+  - `Dictionary`
+  - `Set`
+  - `String`
+  - `Range`
+  - `ClosedRange`
+  - `IndexSet`
+  - `CharacterSet`
+  - `FileManager`
+  - `Date`
+  - `DateFormatter`
+  - `Calendar`
+  - `TimeZone`
+  - `Locale`
+  - `Timer`
+  - `Data`
+  - `JSONSerialization`
+  - `JSONDecoder`
+  - `JSONEncoder`
+  - `Codable`
+  - `UserDefaults`
+  - `NotificationCenter`
+  - `Bundle`
+  - `URL`
+  - `URLRequest`
+  - `URLSession`
+  - `OperationQueue`
+- Infrastructure
+  - Swift Package Manager (SPM)
+  - Xcode
+  - SwiftLint
+  - SwiftFormat
+  - Apple Developer Documentation
+  - Swift Evolution
+  - LLVM
+  - REPL (Read-Eval-Print Loop)

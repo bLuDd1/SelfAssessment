@@ -61,7 +61,7 @@
   - Coding conventions: 🎓 known
   - Camel case: 🙋 explained
   - Snake case: 🙋 explained
-  - Kebab case: 🎓 known
+  - Kebab case: e
   - Trailing commas: 🎓 known
   - Return early: 🖐️ used
   - Fail-fast: 👂 heard
@@ -198,9 +198,9 @@
   - Handle object as instances and hashes at the same time: 🎓 known
   - Use fields instead of arguments: 🎓 known
   - Data clump: 🎓 known
-  - Feature envy: 👂 heard
-  - Monkey patch: 👂 heard
-  - Yo-yo problem: 👂 heard
+  - Feature envy: k
+  - Monkey patch: k
+  - Yo-yo problem: k
 - Runtimes and virtual machines
   - Bytecode: 🎓 known
   - V8: 🎓 known
@@ -227,7 +227,7 @@
   - RFC
   - IETF
   - IANA
-  - IEEE
+  - IEEE k
   - Base64: 🎓 known
   - ECMA: 🎓 known
   - ICANN
@@ -235,5 +235,5 @@
   - MIME
   - OWASP
   - UTF-8: 🙋 explained
-  - W3C
+  - W3C k
   - ODMG

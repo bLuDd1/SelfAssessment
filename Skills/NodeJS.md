@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,7 +26,7 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments: 🖐️ used
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -71,11 +71,11 @@
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🖐️ used
   - RPC
   - Routing
   - DoS
@@ -84,7 +84,7 @@
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection
+  - SQL injection: 🖐️ used
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -93,13 +93,13 @@
   - Logging
   - Application configuring
   - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - CI/CD: 🖐️ used
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console: 👂 heard
   - Inspector
 - Data access
   - Data access layer
@@ -110,7 +110,7 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error`: 👂 heard
   - `error.cause`
   - `error.code`
   - `error.message`

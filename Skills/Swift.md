@@ -1,0 +1,148 @@
+## Swift
+
+- Language
+  - `let` and `var`: 🙋 explained
+  - `Int`: 🖐️ used
+  - `Double`: 🖐️ used
+  - `Float`: 🖐️ used
+  - `Bool`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Character`: 🎓 known
+  - `Array`: 🖐️ used
+  - `Dictionary`: 🖐️ used
+  - `Set`: 🖐️ used
+  - Tuples: 🖐️ used
+  - Optionals: 🖐️ used
+  - Optional binding (`if let`, `guard let`): 🖐️ used
+  - Optional chaining: 🎓 known
+  - `nil`: 🖐️ used
+  - `Any`: 🎓 known
+  - `AnyObject`: 👂 heard
+  - `Typealias`: 🎓 known
+  - `type(of:)`: 🎓 known
+  - Literals: 🎓 known
+  - Interpolation: 🖐️ used
+  - Range operators (`...`, `..<`): 🖐️ used
+  - Closures: 🖐️ used
+  - Trailing closure syntax: 👂 heard
+  - Escaping closures: 🎓 known
+  - Autoclosures
+  - `self`: 🖐️ used
+  - `super`: 🎓 known
+  - Type casting (`as`, `as?`, `as!`): 🎓 known
+  - Conditional casting (`is`): 🎓 known
+  - `Optional`: 🎓 known
+  - `Optional.map`: 👂 heard
+  - `Optional.flatMap`: 👂 heard
+  - `Optional.default`: 👂 heard
+  - `Optional.coalesce`: 👂 heard
+  - Enums: 🖐️ used
+  - Associated values: 🎓 known
+  - Raw values: 🎓 known
+  - Structs: 🙋 explained
+  - Classes: 🙋 explained
+  - Inheritance: 🖐️ used
+  - Protocols: 🖐️ used
+  - Protocol extensions: 🖐️ used
+  - Protocol-oriented programming: 🎓 known
+  - Extensions: 🎓 known
+  - Generics: 👂 heard
+  - Generic constraints: 👂 heard
+  - Access control (`public`, `private`, `fileprivate`, `internal`, `open`): 🎓 known
+  - Deinitializers: 👂 heard
+  - Memory management (ARC): 🎓 known
+  - Property observers (`willSet`, `didSet`): 👂 heard
+  - Key paths: 🖐️ used
+  - Lazy properties: 👂 heard
+  - Static properties and methods: 🖐️ used
+  - Subscripts
+  - Nested types: 👂 heard
+  - Initializers: 🖐️ used
+  - Failable initializers: 👂 heard
+  - Convenience initializers: 👂 heard
+  - Required initializers: 👂 heard
+  - Mutating methods
+  - Computed properties
+  - Immutable properties
+  - Read-only properties
+  - Method chaining: 👂 heard
+  - Error handling: 🖐️ used
+  - `try`, `try?`, `try!`: 👂 heard
+  - Throwing functions: 🎓 known
+  - Rethrowing functions: 🎓 known
+  - `Result` type
+  - Concurrency: 👂 heard
+  - `async` and `await`: 👂 heard
+  - `DispatchQueue`
+  - `DispatchGroup`
+  - Grand Central Dispatch (GCD): 👂 heard
+  - Operation queues
+  - Actors
+  - `@MainActor`
+  - `@Sendable`: 👂 heard
+  - `Task`
+  - `TaskGroup`
+- Control Flow
+  - `if`: 🖐️ used
+  - `else`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `case`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for case`: 🎓 known
+  - `while`: 🖐️ used
+  - `repeat`: 🖐️ used
+  - `guard`: 🖐️ used
+  - `defer`: 👂 heard
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
+  - `return`: 🖐️ used
+  - `throw`: 🖐️ used
+  - `fallthrough`: 👂 heard
+- Functions
+  - Function declaration: 🙋 explained
+  - Function parameters: 🙋 explained
+  - Default parameters: 🎓 known
+  - Inout parameters: 🎓 known
+  - Variadic parameters: 👂 heard
+  - Function return values: 🖐️ used
+  - Nested functions: 👂 heard
+  - Higher-order functions: 👂 heard
+  - `map`: 🎓 known
+  - `filter`: 🎓 known
+  - `reduce`: 🎓 known
+  - `compactMap`: 👂 heard
+  - `flatMap`
+  - `zip`
+- Standard Library
+  - `Range`
+  - `ClosedRange`
+  - `IndexSet`
+  - `CharacterSet`: 👂 heard
+  - `FileManager`: 👂 heard
+  - `Date`: 👂 heard
+  - `DateFormatter`
+  - `Calendar`
+  - `TimeZone`
+  - `Locale`
+  - `Timer`
+  - `Data`: 🎓 known
+  - `JSONSerialization`: 🖐️ used
+  - `JSONDecoder`: 🖐️ used
+  - `JSONEncoder`: 🖐️ used
+  - `Codable`: 🖐️ used
+  - `UserDefaults`: 🎓 known
+  - `NotificationCenter`
+  - `Bundle`
+  - `URL`: 🖐️ used
+  - `URLRequest`: 🖐️ used
+  - `URLSession`: 🖐️ used
+  - `OperationQueue`: 👂 heard
+- Infrastructure
+  - Swift Package Manager (SPM): 🎓 known
+  - Xcode: 🙋 explained
+  - SwiftLint: 👂 heard
+  - SwiftFormat
+  - Apple Developer Documentation: 🔬 researched
+  - Swift Evolution
+  - LLVM
+  - REPL (Read-Eval-Print Loop)

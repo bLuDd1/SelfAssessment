@@ -2,31 +2,31 @@
 
 - Language
   - `let` and `var`: 🙋 explained
-  - `Int`: 🖐️ used
-  - `Double`: 🖐️ used
-  - `Float`: 🖐️ used
-  - `Bool`: 🖐️ used
-  - `String`: 🖐️ used
-  - `Character`: 🎓 known
-  - `Array`: 🖐️ used
-  - `Dictionary`: 🖐️ used
+  - `Int`: e
+  - `Double`: e
+  - `Float`: e
+  - `Bool`: e
+  - `String`: e
+  - `Character`: e
+  - `Array`: e
+  - `Dictionary`: e
   - `Set`: 🖐️ used
   - Tuples: 🖐️ used
   - Optionals: 🖐️ used
   - Optional binding (`if let`, `guard let`): 🖐️ used
   - Optional chaining: 🎓 known
-  - `nil`: 🖐️ used
+  - `nil`: e
   - `Any`: 🎓 known
   - `AnyObject`: 👂 heard
-  - `Typealias`: 🎓 known
-  - `type(of:)`: 🎓 known
-  - Literals: 🎓 known
+  - `Typealias`: e
+  - `type(of:)`: e
+  - Literals: e
   - Interpolation: 🖐️ used
-  - Range operators (`...`, `..<`): 🖐️ used
-  - Closures: 🖐️ used
+  - Range operators (`...`, `..<`): e
+  - Closures: e
   - Trailing closure syntax: 👂 heard
   - Escaping closures: 🎓 known
-  - Autoclosures
+  - Autoclosures h
   - `self`: 🖐️ used
   - `super`: 🎓 known
   - Type casting (`as`, `as?`, `as!`): 🎓 known
@@ -36,26 +36,26 @@
   - `Optional.flatMap`: 👂 heard
   - `Optional.default`: 👂 heard
   - `Optional.coalesce`: 👂 heard
-  - Enums: 🖐️ used
+  - Enums: e
   - Associated values: 🎓 known
   - Raw values: 🎓 known
   - Structs: 🙋 explained
   - Classes: 🙋 explained
   - Inheritance: 🖐️ used
-  - Protocols: 🖐️ used
+  - Protocols: e
   - Protocol extensions: 🖐️ used
   - Protocol-oriented programming: 🎓 known
   - Extensions: 🎓 known
   - Generics: 👂 heard
   - Generic constraints: 👂 heard
-  - Access control (`public`, `private`, `fileprivate`, `internal`, `open`): 🎓 known
+  - Access control (`public`, `private`, `fileprivate`, `internal`, `open`): u
   - Deinitializers: 👂 heard
-  - Memory management (ARC): 🎓 known
+  - Memory management (ARC): e
   - Property observers (`willSet`, `didSet`): 👂 heard
   - Key paths: 🖐️ used
   - Lazy properties: 👂 heard
   - Static properties and methods: 🖐️ used
-  - Subscripts
+  - Subscripts h
   - Nested types: 👂 heard
   - Initializers: 🖐️ used
   - Failable initializers: 👂 heard
@@ -70,7 +70,7 @@
   - `try`, `try?`, `try!`: 👂 heard
   - Throwing functions: 🎓 known
   - Rethrowing functions: 🎓 known
-  - `Result` type
+  - `Result` type h
   - Concurrency: 👂 heard
   - `async` and `await`: 👂 heard
   - `DispatchQueue`
@@ -83,20 +83,20 @@
   - `Task`
   - `TaskGroup`
 - Control Flow
-  - `if`: 🖐️ used
-  - `else`: 🖐️ used
-  - `switch`: 🖐️ used
-  - `case`: 🖐️ used
-  - `for`: 🖐️ used
+  - `if`: e
+  - `else`: e
+  - `switch`: e
+  - `case`: e
+  - `for`: e
   - `for case`: 🎓 known
-  - `while`: 🖐️ used
-  - `repeat`: 🖐️ used
+  - `while`: e
+  - `repeat`: e
   - `guard`: 🖐️ used
-  - `defer`: 👂 heard
+  - `defer`: k
   - `break`: 🎓 known
   - `continue`: 🎓 known
-  - `return`: 🖐️ used
-  - `throw`: 🖐️ used
+  - `return`: e
+  - `throw`: e
   - `fallthrough`: 👂 heard
 - Functions
   - Function declaration: 🙋 explained
@@ -106,7 +106,7 @@
   - Variadic parameters: 👂 heard
   - Function return values: 🖐️ used
   - Nested functions: 👂 heard
-  - Higher-order functions: 👂 heard
+  - Higher-order functions: k
   - `map`: 🎓 known
   - `filter`: 🎓 known
   - `reduce`: 🎓 known
@@ -122,9 +122,9 @@
   - `Date`: 👂 heard
   - `DateFormatter`
   - `Calendar`
-  - `TimeZone`
-  - `Locale`
-  - `Timer`
+  - `TimeZone` k
+  - `Locale` k
+  - `Timer` k
   - `Data`: 🎓 known
   - `JSONSerialization`: 🖐️ used
   - `JSONDecoder`: 🖐️ used

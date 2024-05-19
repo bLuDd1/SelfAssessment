@@ -4,23 +4,23 @@
   - Event loop: 🙋 explained
   - `try..catch`: 🖐️ used
   - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Async I/O u
+  - Thread pool k
   - Pattern Reactor
   - CAS operations
   - epoll
-  - kqueue
-  - Completion ports
+  - kqueue h
+  - Completion ports h
   - Event ports
   - libuv: 👂 heard
   - Race conditions
-  - Dead locks
-  - Live locks
+  - Dead locks h
+  - Live locks h
   - Concurrent programming
-  - Parallel programming: 👂 heard
+  - Parallel programming: u
   - Actor Model
-  - Thread: 👂 heard
-  - Process: 👂 heard
+  - Thread: e
+  - Process: u
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first
@@ -28,23 +28,23 @@
   - Promise: 👂 heard
   - Async/await: 👂 heard
   - Future
-  - Deferred
+  - Deferred h
   - Sync generator: 👂 heard
   - Async Generator: 👂 heard
   - Async Iterator: 👂 heard
   - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal k
   - Stream
   - Chain of responsibility
   - Middleware
-  - Locks
+  - Locks h
 - Async adapters and utils
   - callbackify
   - promisify
   - asyncify
-  - Callbacks compose
+  - Callbacks compose h
   - Async compose
 - Async abstractions interfaces
   - EventEmitter: 🎓 known
@@ -55,8 +55,8 @@
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
   - Async Collector: 👂 heard
-  - Semaphore
-  - Mutex
+  - Semaphore u
+  - Mutex u
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🎓 known
@@ -66,7 +66,7 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics u
   - High resolution clock
   - Callback hell: 👂 heard
   - Promise hell: 👂 heard

@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`: 🖐️ used
-  - `Function`: 🖐️ used
-  - `Boolean`: 🖐️ used
-  - `Number`: 🖐️ used
-  - `BigInt`: 🎓 known
+  - `Object`: e
+  - `Function`: e
+  - `Boolean`: e
+  - `Number`: e
+  - `BigInt`: e
   - `String`: 🙋 explained
   - `Symbol`: 🎓 known
-  - `Infinity`: 🎓 known
-  - `NaN`: 🎓 known
-  - `undefined`: 🖐️ used
-  - `null`: 🖐️ used
-  - `this`: 🖐️ used
+  - `Infinity`: e
+  - `NaN`: e
+  - `undefined`: e
+  - `null`: e
+  - `this`: e
   - `instanceof`: 🙋 explained
-  - `...spread`: 🖐️ used
-  - `...rest`: 🖐️ used
-  - `typeof`: 🖐️ used
+  - `...spread`: e
+  - `...rest`: e
+  - `typeof`: e
   - Destructuring: 🖐️ used
   - Generators: 👂 heard
   - Iterators: 🎓 known
@@ -25,28 +25,28 @@
   - Chaining: 🎓 known
   - Optional chaining: 👂 heard
   - IIFE: 👂 heard
-  - Async IIFE
+  - Async IIFE h
   - `global`: 👂 heard
   - `globalThis`: 👂 heard
   - `window`: 👂 heard
   - Getters and setters: 🎓 known
   - `__proto__`: 🎓 known
   - `prototype`: 🎓 known
-  - Equality operators: 🖐️ used
+  - Equality operators: e
   - Logical operators: 🙋 explained
-  - Logical Assignment: 🖐️ used
-  - Bitwise operators: 🖐️ used
-  - Ternary operator: 🖐️ used
+  - Logical Assignment: e
+  - Bitwise operators: e
+  - Ternary operator: e
   - `void`: 👂 heard
-  - `yield`: 👂 heard
-  - `await`: 👂 heard
+  - `yield`: k
+  - `await`: k
   - Template literal: 🖐️ used
   - Strict mode: 🙋 explained
-  - Hoisting
+  - Hoisting h
   - `delete`: 🎓 known
   - `in`: 🎓 known
-  - `super`
-  - `eval`
+  - `super` h
+  - `eval` h
   - `static`: 🖐️ used
   - `Number.parseInt`: 🎓 known
   - `Number.parseFloat`: 🎓 known
@@ -61,20 +61,20 @@
 - Statements
   - `if`: 🙋 explained
   - `while`: 🙋 explained
-  - `do..while`: 🖐️ used
+  - `do..while`: e
   - `for`: 🙋 explained
   - `for..in`: 🙋 explained
   - `for..of`: 🙋 explained
   - `for await`: 🎓 known
-  - `throw`: 🖐️ used
-  - `break`: 🖐️ used
-  - `continue`: 🖐️ used
+  - `throw`: e
+  - `break`: e
+  - `continue`: e
   - `import`: 🙋 explained
   - `export`: 🙋 explained
   - `label`: 🎓 known
   - `try..catch`: 🖐️ used
-  - `switch`: 🖐️ used
-  - `class`: 🖐️ used
+  - `switch`: e
+  - `class`: e
   - `extends`: 🖐️ used
   - `with`: 🎓 known
   - `new`: 🖐️ used
@@ -101,17 +101,17 @@
 - Standard classes and namespaces
   - `Proxy`: 🎓 known
   - `RegExp`: 🙋 explained
-  - `Date`: 🖐️ used
-  - `Math`: 🖐️ used
-  - `Reflect`
+  - `Date`: e
+  - `Math`: e
+  - `Reflect` h
   - `Error`: 🖐️ used
-  - `Atomics`
+  - `Atomics` k
   - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`: 👂 heard
-  - `console`: 🖐️ used
+  - `console`: e
   - Timers: 🖐️ used
 - Infrastructure
   - V8: 🎓 known

@@ -24,7 +24,7 @@
   - Flexibility: 🎓 known
   - Law of Demeter (LoD): 👂 heard
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer h
   - Domain-specific language (DSL)
   - System vs applied code: 👂 heard
   - Multilayer approach: 👂 heard
@@ -47,7 +47,7 @@
   - IDEF1X
   - UML: 🙋 explained
   - Work breakdown structure: 👂 heard
-  - Budget estimation: 👂 heard
+  - Budget estimation: e
   - Distributed systems: 🎓 known
   - High-intensive computing: 👂 heard
   - Load balancing: 🎓 known
@@ -64,11 +64,11 @@
   - A software requirements specification (SRS): 🙋 explained
   - Solution visions: 🙋 explained
   - Solution capabilities: 🙋 explained
-  - System design: 🎓 known
+  - System design: e
   - Process modelling: 🙋 explained
   - Data modelling: 🎓 known
   - Solution components: 🎓 known
-  - Risk assessment: 👂 heard
+  - Risk assessment: e
   - Non Functional Requirements (NFR): 👂 heard
   - Clouds: 🙋 explained
   - BPMN

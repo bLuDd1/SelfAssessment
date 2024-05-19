@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop e
-  - `try..catch` u
+  - Event loop: 🙋 explained
+  - `try..catch`: 🖐️ used
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -12,27 +12,27 @@
   - kqueue
   - Completion ports
   - Event ports
-  - libuv h
+  - libuv: 👂 heard
   - Race conditions
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming h
+  - Parallel programming: 👂 heard
   - Actor Model
-  - Thread h
-  - Process h
+  - Thread: 👂 heard
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks u
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise h
-  - Async/await h
+  - Promise: 👂 heard
+  - Async/await: 👂 heard
   - Future
   - Deferred
-  - Sync generator h
-  - Async Generator h
-  - Async Iterator h
-  - Event u
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
@@ -47,29 +47,29 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter k
-  - Observable/Observer k
-  - Readable k
-  - Writable k
+  - EventEmitter: 🎓 known
+  - Observable/Observer: 🎓 known
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
-  - Async Pool h
-  - Async Queue h
-  - Async Collector h
+  - Async Pool: 👂 heard
+  - Async Queue: 👂 heard
+  - Async Collector: 👂 heard
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers k
+  - Timers: 🎓 known
   - `setImmediate`
-  - `nextTick` 
+  - `nextTick`
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell h
-  - Promise hell h
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
@@ -77,8 +77,8 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library h
-  - RxJS library h
+  - Async.js library: 👂 heard
+  - RxJS library: 👂 heard
   - Promise.all
   - Promise.allSettled
   - Promise.race

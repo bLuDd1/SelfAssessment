@@ -1,100 +1,100 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
-  - Components u
-  - Directories  u
-  - GRASP h
-  - SOLID h
-  - GoF patterns h
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
   - CQS
   - Leaking abstractions
-  - Multiparadigm code k
-  - Contract programming h
-  - Platform-agnostic h
-  - Transport-agnostic h
-  - Framework-agnostic h
-  - Code coverage k
-  - Cohesion h
-  - Coupling h
-  - Cyclomatic complexity h
-  - Reliability k
-  - Quality k
-  - Availability k
-  - Flexibility k
-  - Law of Demeter (LoD) h
+  - Multiparadigm code: 🎓 known
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 👂 heard
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🎓 known
+  - Cohesion: 👂 heard
+  - Coupling: 👂 heard
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
+  - Law of Demeter (LoD): 👂 heard
 - Application architecture
-  - Isolation between layer 
-  - Domain-specific language (DSL) 
-  - System vs applied code h
-  - Multilayer approach h
-  - Hexagonal architecture h
+  - Isolation between layer
+  - Domain-specific language (DSL)
+  - System vs applied code: 👂 heard
+  - Multilayer approach: 👂 heard
+  - Hexagonal architecture: 👂 heard
   - Separation of concerns (SoC)
-  - Metaprogramming k
-  - Inversion of control (IoC) k
-  - Dependency injection (DI) k
-  - Clean architecture k
-  - Domain-driven design (DDD) h
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC): 🎓 known
+  - Dependency injection (DI): 🎓 known
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD): 👂 heard
   - Pub/sub
   - Message brocker
-  - Agent 
+  - Agent
   - Service locator
-  - Message Queue (MQ) h
+  - Message Queue (MQ): 👂 heard
   - CQRS
   - Event sourcing
-  - E-R data modeling h
-  - Entity-relationship diagram u
+  - E-R data modeling: 👂 heard
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
-  - UML e
-  - Work breakdown structure h
-  - Budget estimation h
-  - Distributed systems k
-  - High-intensive computing h
-  - Load balancing k
-  - Gateways h
+  - UML: 🙋 explained
+  - Work breakdown structure: 👂 heard
+  - Budget estimation: 👂 heard
+  - Distributed systems: 🎓 known
+  - High-intensive computing: 👂 heard
+  - Load balancing: 🎓 known
+  - Gateways: 👂 heard
   - On-premises
-  - IaaS k
-  - PaaS k
-  - SaaS k
-  - FaaS clouds k
-  - Serverless h
-  - Vendor lock-in h
-  - Bus factor 
+  - IaaS: 🎓 known
+  - PaaS: 🎓 known
+  - SaaS: 🎓 known
+  - FaaS clouds: 🎓 known
+  - Serverless: 👂 heard
+  - Vendor lock-in: 👂 heard
+  - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS) e
-  - Solution visions e
-  - Solution capabilities e
-  - System design k
-  - Process modelling e
-  - Data modelling k
-  - Solution components k
-  - Risk assessment h
-  - Non Functional Requirements (NFR) h
-  - Clouds e
+  - A software requirements specification (SRS): 🙋 explained
+  - Solution visions: 🙋 explained
+  - Solution capabilities: 🙋 explained
+  - System design: 🎓 known
+  - Process modelling: 🙋 explained
+  - Data modelling: 🎓 known
+  - Solution components: 🎓 known
+  - Risk assessment: 👂 heard
+  - Non Functional Requirements (NFR): 👂 heard
+  - Clouds: 🙋 explained
   - BPMN
-  - Low-code h
-  - No-code h
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
-  - ACID e
+  - ACID: 🙋 explained
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs k
-  - Enterprise strategy k
-  - Integration with subsystems k
-  - Enterprise vision k
-  - Enterprise capabilities k
-  - Project scope h
+  - Understanding business needs: 🎓 known
+  - Enterprise strategy: 🎓 known
+  - Integration with subsystems: 🎓 known
+  - Enterprise vision: 🎓 known
+  - Enterprise capabilities: 🎓 known
+  - Project scope: 👂 heard
   - Enterprise service bus
-  - Service-oriented architecture h
-  - Microservices h
-  - Process choreography 
+  - Service-oriented architecture: 👂 heard
+  - Microservices: 👂 heard
+  - Process choreography
   - Service orchestration
   - Data warehouse
   - Business Intelligence
-  - OLAP h
-  - OLTP h
-  - Conways Law k
-  - Quality assurance k
-  - Engineering Hygiene h
+  - OLAP: 👂 heard
+  - OLTP: 👂 heard
+  - Conways Law: 🎓 known
+  - Quality assurance: 🎓 known
+  - Engineering Hygiene: 👂 heard

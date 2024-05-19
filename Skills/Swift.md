@@ -1,152 +1,148 @@
 ## Swift
 
 - Language
-  - `let` and `var` e
-  - `Int` u
-  - `Double` u
-  - `Float` u
-  - `Bool` u
-  - `String` u
-  - `Character` k
-  - `Array` u
-  - `Dictionary` u
-  - `Set` u
-  - Tuples u
-  - Optionals u
-  - Optional binding (`if let`, `guard let`) u
-  - Optional chaining k
-  - `nil` u
-  - `Any` k
-  - `AnyObject` h
-  - `Typealias` k
-  - `type(of:)` k
-  - Literals k
-  - Interpolation u
-  - Range operators (`...`, `..<`) u
-  - Closures u
-  - Trailing closure syntax h
-  - Escaping closures k
+  - `let` and `var`: 🙋 explained
+  - `Int`: 🖐️ used
+  - `Double`: 🖐️ used
+  - `Float`: 🖐️ used
+  - `Bool`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Character`: 🎓 known
+  - `Array`: 🖐️ used
+  - `Dictionary`: 🖐️ used
+  - `Set`: 🖐️ used
+  - Tuples: 🖐️ used
+  - Optionals: 🖐️ used
+  - Optional binding (`if let`, `guard let`): 🖐️ used
+  - Optional chaining: 🎓 known
+  - `nil`: 🖐️ used
+  - `Any`: 🎓 known
+  - `AnyObject`: 👂 heard
+  - `Typealias`: 🎓 known
+  - `type(of:)`: 🎓 known
+  - Literals: 🎓 known
+  - Interpolation: 🖐️ used
+  - Range operators (`...`, `..<`): 🖐️ used
+  - Closures: 🖐️ used
+  - Trailing closure syntax: 👂 heard
+  - Escaping closures: 🎓 known
   - Autoclosures
-  - `self` u
-  - `super` k
-  - Type casting (`as`, `as?`, `as!`) k
-  - Conditional casting (`is`) k
-  - `Optional` k
-  - `Optional.map` h
-  - `Optional.flatMap` h
-  - `Optional.default` h
-  - `Optional.coalesce` h
-  - Enums u
-  - Associated values k
-  - Raw values k
-  - Structs e
-  - Classes e
-  - Inheritance u
-  - Protocols u
-  - Protocol extensions u
-  - Protocol-oriented programming k
-  - Extensions k
-  - Generics h
-  - Generic constraints h
-  - Access control (`public`, `private`, `fileprivate`, `internal`, `open`) k
-  - Deinitializers h
-  - Memory management (ARC) k
-  - Property observers (`willSet`, `didSet`) h
-  - Key paths u
-  - Lazy properties h
-  - Static properties and methods u
-  - Subscripts 
-  - Nested types h
-  - Initializers u
-  - Failable initializers h
-  - Convenience initializers h
-  - Required initializers h
+  - `self`: 🖐️ used
+  - `super`: 🎓 known
+  - Type casting (`as`, `as?`, `as!`): 🎓 known
+  - Conditional casting (`is`): 🎓 known
+  - `Optional`: 🎓 known
+  - `Optional.map`: 👂 heard
+  - `Optional.flatMap`: 👂 heard
+  - `Optional.default`: 👂 heard
+  - `Optional.coalesce`: 👂 heard
+  - Enums: 🖐️ used
+  - Associated values: 🎓 known
+  - Raw values: 🎓 known
+  - Structs: 🙋 explained
+  - Classes: 🙋 explained
+  - Inheritance: 🖐️ used
+  - Protocols: 🖐️ used
+  - Protocol extensions: 🖐️ used
+  - Protocol-oriented programming: 🎓 known
+  - Extensions: 🎓 known
+  - Generics: 👂 heard
+  - Generic constraints: 👂 heard
+  - Access control (`public`, `private`, `fileprivate`, `internal`, `open`): 🎓 known
+  - Deinitializers: 👂 heard
+  - Memory management (ARC): 🎓 known
+  - Property observers (`willSet`, `didSet`): 👂 heard
+  - Key paths: 🖐️ used
+  - Lazy properties: 👂 heard
+  - Static properties and methods: 🖐️ used
+  - Subscripts
+  - Nested types: 👂 heard
+  - Initializers: 🖐️ used
+  - Failable initializers: 👂 heard
+  - Convenience initializers: 👂 heard
+  - Required initializers: 👂 heard
   - Mutating methods
   - Computed properties
   - Immutable properties
   - Read-only properties
-  - Method chaining h
-  - Error handling u
-  - `try`, `try?`, `try!` h
-  - Throwing functions k
-  - Rethrowing functions k
-  - `Result` type 
-  - Concurrency h
-  - `async` and `await` h
+  - Method chaining: 👂 heard
+  - Error handling: 🖐️ used
+  - `try`, `try?`, `try!`: 👂 heard
+  - Throwing functions: 🎓 known
+  - Rethrowing functions: 🎓 known
+  - `Result` type
+  - Concurrency: 👂 heard
+  - `async` and `await`: 👂 heard
   - `DispatchQueue`
   - `DispatchGroup`
-  - Grand Central Dispatch (GCD) h
+  - Grand Central Dispatch (GCD): 👂 heard
   - Operation queues
   - Actors
   - `@MainActor`
-  - `@Sendable` h
+  - `@Sendable`: 👂 heard
   - `Task`
   - `TaskGroup`
 - Control Flow
-  - `if` u
-  - `else` u
-  - `switch` u
-  - `case` u
-  - `for` u
-  - `for case` k
-  - `while` u
-  - `repeat` u
-  - `guard` u
-  - `defer` h
-  - `break` k
-  - `continue` k
-  - `return` u
-  - `throw` u
-  - `fallthrough` h
+  - `if`: 🖐️ used
+  - `else`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `case`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for case`: 🎓 known
+  - `while`: 🖐️ used
+  - `repeat`: 🖐️ used
+  - `guard`: 🖐️ used
+  - `defer`: 👂 heard
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
+  - `return`: 🖐️ used
+  - `throw`: 🖐️ used
+  - `fallthrough`: 👂 heard
 - Functions
-  - Function declaration e
-  - Function parameters e
-  - Default parameters k
-  - Inout parameters k
-  - Variadic parameters h
-  - Function return values u
-  - Nested functions h
-  - Higher-order functions h
-  - `map` k
-  - `filter` k
-  - `reduce` k
-  - `compactMap` h
+  - Function declaration: 🙋 explained
+  - Function parameters: 🙋 explained
+  - Default parameters: 🎓 known
+  - Inout parameters: 🎓 known
+  - Variadic parameters: 👂 heard
+  - Function return values: 🖐️ used
+  - Nested functions: 👂 heard
+  - Higher-order functions: 👂 heard
+  - `map`: 🎓 known
+  - `filter`: 🎓 known
+  - `reduce`: 🎓 known
+  - `compactMap`: 👂 heard
   - `flatMap`
   - `zip`
 - Standard Library
-  - `Array` u
-  - `Dictionary` u
-  - `Set` u
-  - `String` r
   - `Range`
   - `ClosedRange`
   - `IndexSet`
-  - `CharacterSet` h
-  - `FileManager` h
-  - `Date` h
+  - `CharacterSet`: 👂 heard
+  - `FileManager`: 👂 heard
+  - `Date`: 👂 heard
   - `DateFormatter`
   - `Calendar`
   - `TimeZone`
   - `Locale`
   - `Timer`
-  - `Data` k
-  - `JSONSerialization` u
-  - `JSONDecoder` u
-  - `JSONEncoder` u
-  - `Codable` u
-  - `UserDefaults` k
+  - `Data`: 🎓 known
+  - `JSONSerialization`: 🖐️ used
+  - `JSONDecoder`: 🖐️ used
+  - `JSONEncoder`: 🖐️ used
+  - `Codable`: 🖐️ used
+  - `UserDefaults`: 🎓 known
   - `NotificationCenter`
   - `Bundle`
-  - `URL` u
-  - `URLRequest` u
-  - `URLSession` u
-  - `OperationQueue` h
+  - `URL`: 🖐️ used
+  - `URLRequest`: 🖐️ used
+  - `URLSession`: 🖐️ used
+  - `OperationQueue`: 👂 heard
 - Infrastructure
-  - Swift Package Manager (SPM) k
-  - Xcode e
-  - SwiftLint h
+  - Swift Package Manager (SPM): 🎓 known
+  - Xcode: 🙋 explained
+  - SwiftLint: 👂 heard
   - SwiftFormat
-  - Apple Developer Documentation r
+  - Apple Developer Documentation: 🔬 researched
   - Swift Evolution
   - LLVM
   - REPL (Read-Eval-Print Loop)

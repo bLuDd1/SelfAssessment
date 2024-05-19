@@ -12,7 +12,7 @@
   - Generic programming: 👂 heard
   - Concurrent computing: 👂 heard
   - Asynchronous programming: 🎓 known
-  - Parallel programming: u
+  - Parallel programming: 🖐️ used
   - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -29,7 +29,7 @@
 - OOP basics
   - Constructor: 🙋 explained
   - Operator `new`: 🖐️ used
-  - Static method: e
+  - Static method: 🙋 explained
   - Method: 🙋 explained
   - Async method: 🎓 known
   - Getters, Setters: 🎓 known
